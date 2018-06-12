@@ -4,6 +4,7 @@
 
 ```
 npm install save-svg-as-png
+#123456
 ```
 
 ## Usage
